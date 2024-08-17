@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "priority-queue-js": "^0.3.0"
+  }
+}
